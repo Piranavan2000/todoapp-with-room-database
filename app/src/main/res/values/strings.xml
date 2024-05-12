@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">prison app</string>
+    <string name="tvTitle">My Todo List</string>
+    <string name="btnAdd">Add Item</string>
+    <string name="alertTitle">Enter Todo Item</string>
+</resources>
